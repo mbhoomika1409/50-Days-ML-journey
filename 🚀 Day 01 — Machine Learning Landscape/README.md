@@ -302,6 +302,8 @@ It tries to find natural groups within the data based on similarity.
 
 ---
 
+<img width="1149" height="706" alt="Screenshot 2026-10-06 at 20 58 58" src="https://github.com/user-attachments/assets/e6fbeba4-3f0b-4ca2-8f9a-c429ec86a618" />
+
 ## 🔵 Dimensionality Reduction
 
 ### What is Dimensionality Reduction?
@@ -319,6 +321,9 @@ Dimensionality Reduction
 ```
 
 This can make data easier to visualize, process, and analyze.
+
+
+<img width="1146" height="712" alt="Screenshot 2026-10-06 at 20 59 25" src="https://github.com/user-attachments/assets/bc934588-7e17-4869-a410-b167a7844e51" />
 
 ### PCA
 
